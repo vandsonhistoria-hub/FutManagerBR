@@ -1,0 +1,1 @@
+# FutManager BR - regras ProGuard
